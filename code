@@ -1,6 +1,6 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("I live in the capital city of "); 
-        System.out.println("I live in the capital city of "); 
+        System.out.println("I live in the capital city of XYZ "); 
+        System.out.println("I live in the capital city of XYZ "); 
     }
 }
